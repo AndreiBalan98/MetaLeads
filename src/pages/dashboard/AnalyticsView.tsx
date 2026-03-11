@@ -245,19 +245,19 @@ const AnalyticsView = () => {
       {/* Charts Grid */}
       <div className="grid gap-4 lg:grid-cols-2">
         {/* Leads Over Time */}
-        <div className="rounded-lg border bg-card p-5">
+        <div className="min-w-0 rounded-lg border bg-card p-5">
           <h3 className="font-display text-sm font-semibold text-foreground">Leads Over Time</h3>
-          <div className="mt-4 h-56">
+          <div className="mt-4 h-56 overflow-hidden">
             <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={leadsOverTime}>
+              <LineChart data={leadsOverTime} margin={{ left: 0, right: 8, top: 4, bottom: 0 }}>
                 <XAxis
                   dataKey="date"
                   tick={{ fontSize: 10 }}
                   tickLine={false}
                   axisLine={false}
-                  interval={period === "This Month" ? 4 : "preserveStartEnd"}
+                  interval={period === "This Month" ? 4 : period === "Today" ? 3 : "preserveStartEnd"}
                 />
-                <YAxis tick={{ fontSize: 10 }} tickLine={false} axisLine={false} />
+                <YAxis tick={{ fontSize: 10 }} tickLine={false} axisLine={false} width={24} />
                 <Tooltip />
                 <Line
                   type="monotone"
@@ -272,20 +272,22 @@ const AnalyticsView = () => {
         </div>
 
         {/* Response Time Distribution */}
-        <div className="rounded-lg border bg-card p-5">
+        <div className="min-w-0 rounded-lg border bg-card p-5">
           <h3 className="font-display text-sm font-semibold text-foreground">
             Response Time Distribution
           </h3>
-          <div className="mt-4 h-56">
+          <div className="mt-4 h-56 overflow-hidden">
             <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={responseTimeData}>
+              <BarChart data={responseTimeData} margin={{ left: 0, right: 8, top: 4, bottom: 30 }}>
                 <XAxis
                   dataKey="range"
-                  tick={{ fontSize: 10 }}
+                  tick={{ fontSize: 10, angle: -35, textAnchor: "end" }}
                   tickLine={false}
                   axisLine={false}
+                  height={50}
+                  interval={0}
                 />
-                <YAxis tick={{ fontSize: 10 }} tickLine={false} axisLine={false} />
+                <YAxis tick={{ fontSize: 10 }} tickLine={false} axisLine={false} width={24} />
                 <Tooltip />
                 <Bar dataKey="count" radius={[4, 4, 0, 0]}>
                   {responseTimeData.map((_, i) => (
@@ -307,7 +309,7 @@ const AnalyticsView = () => {
         </div>
 
         {/* Pipeline Funnel */}
-        <div className="rounded-lg border bg-card p-5">
+        <div className="min-w-0 rounded-lg border bg-card p-5">
           <h3 className="font-display text-sm font-semibold text-foreground">Pipeline Funnel</h3>
           <div className="mt-4 space-y-3">
             {funnelData.map((stage, i) => {
@@ -331,7 +333,7 @@ const AnalyticsView = () => {
         </div>
 
         {/* Leads by Campaign */}
-        <div className="rounded-lg border bg-card p-5">
+        <div className="min-w-0 rounded-lg border bg-card p-5">
           <h3 className="font-display text-sm font-semibold text-foreground">
             Leads by Campaign
           </h3>
