@@ -162,12 +162,13 @@ const LeadsView = () => {
                 </div>
                 <UrgencyClock submittedAt={lead.submittedAt} />
                 <div className="flex gap-1">
-                  <button
+                  <a
+                    href={`tel:${lead.lead_data.phone_number}`}
                     className="rounded-md p-1.5 text-muted-foreground hover:bg-accent hover:text-primary"
                     onClick={(e) => e.stopPropagation()}
                   >
                     <Phone className="h-4 w-4" />
-                  </button>
+                  </a>
                   <button
                     className="rounded-md p-1.5 text-muted-foreground hover:bg-accent hover:text-success"
                     onClick={(e) => e.stopPropagation()}
@@ -196,8 +197,10 @@ const LeadsView = () => {
           <div className="p-6 space-y-6">
             {/* Quick Actions */}
             <div className="flex gap-3">
-              <Button className="flex-1">
-                <Phone className="mr-2 h-4 w-4" /> Call
+              <Button className="flex-1" asChild>
+                <a href={`tel:${selectedLead.lead_data.phone_number}`}>
+                  <Phone className="mr-2 h-4 w-4" /> Call
+                </a>
               </Button>
               <Button variant="outline" className="flex-1">
                 <MessageCircle className="mr-2 h-4 w-4" /> WhatsApp
