@@ -1,0 +1,14 @@
+var fs = require('fs');
+var d = JSON.parse(fs.readFileSync('./public/data.json', 'utf8'));
+console.log('Total leads:', d.length);
+var missing = d.filter(function(l) { return !l.assigned_to || !l.lead_data || !l.created_time || !l.lead_status });
+console.log('Missing required fields:', missing.length);
+if (missing.length) console.log('First bad lead:', JSON.stringify(missing[0], null, 2));
+var noName = d.filter(function(l) { return !l.lead_data.full_name });
+console.log('Leads without full_name:', noName.length);
+if (noName.length) console.log('Sample no-name lead_data:', JSON.stringify(noName[0].lead_data));
+var statuses = Array.from(new Set(d.map(function(l) { return l.lead_status })));
+console.log('Unique statuses:', statuses);
+var ids = d.map(function(l) { return l.id });
+var dupeIds = ids.filter(function(id, i) { return ids.indexOf(id) !== i });
+console.log('Duplicate IDs:', dupeIds.length);

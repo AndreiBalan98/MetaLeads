@@ -1,0 +1,992 @@
+[
+  {
+    "id": "1501449714301540",
+    "created_time": "2026-02-24_01:05:31",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40757503915",
+      "email": "musculetion53@gmail.com",
+      "full_name": "Musculet Ion"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "2026-02-28_09:30:34",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40775363335"
+    }
+  },
+  {
+    "id": "862062913059482",
+    "created_time": "2026-02-20_16:44:37",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40748969790",
+      "email": "ioan.bors7423@yahoook.com",
+      "full_name": "Ioan Bors.  Va rog sa anutati factura n de. Gaz.  Plus lumina"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-21_12:36:45",
+    "returning_lead": "2x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40762931098"
+    }
+  },
+  {
+    "id": "832049766270926",
+    "created_time": "2026-02-25_05:57:53",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "peste_5001_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40734201764",
+      "email": "c.sapciuc@gmail.com",
+      "full_name": "Constantin Sapciuc"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-02-27_00:13:09",
+    "returning_lead": "2x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40734928687"
+    }
+  },
+  {
+    "id": "2232739977208825",
+    "created_time": "2026-02-22_16:50:15",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40754059979",
+      "email": "virgilcatalinplugaru@gmail.com",
+      "full_name": "Plugaru Catalin"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-03-01_08:59:44",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40759075346"
+    }
+  },
+  {
+    "id": "1903931703541860",
+    "created_time": "2026-02-19_17:55:10",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40751566018",
+      "email": "luci_pacatosu@yahoo.com",
+      "full_name": "Spinu Lucian"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "2026-02-22_23:05:02",
+    "returning_lead": "2x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40744980900"
+    }
+  },
+  {
+    "id": "1570558973937131",
+    "created_time": "2026-03-01_00:58:54",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40753535080",
+      "email": "alexandruungureanu784@yahoo.com",
+      "full_name": "Alexandru Daniel"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-05_23:28:26",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40729185003"
+    }
+  },
+  {
+    "id": "1340782014748820",
+    "created_time": "2026-02-23_08:33:40",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40740464830",
+      "email": "szaboflorin56@gmail.com",
+      "full_name": "Florin Szabo"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-02-23_14:55:33",
+    "returning_lead": "2x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40771050587"
+    }
+  },
+  {
+    "id": "2965926693595618",
+    "created_time": "2026-02-22_13:05:16",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40742529808",
+      "email": "adi_ani_vd@yahoo.com",
+      "full_name": "popescu angelica"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40745482234"
+    }
+  },
+  {
+    "id": "1207054337939761",
+    "created_time": "2026-02-12_22:03:53",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40799031694",
+      "email": "mamitzoiu@yahoo.com",
+      "full_name": "George Gheorghiu"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "2026-02-16_02:19:06",
+    "returning_lead": "2x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40769955643"
+    }
+  },
+  {
+    "id": "1519547166027437",
+    "created_time": "2026-02-22_13:24:14",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40754718187",
+      "email": "cris.todi@gmail.com",
+      "full_name": "Cristian Todireanu"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-26_14:46:14",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40774794213"
+    }
+  },
+  {
+    "id": "2215723615583399",
+    "created_time": "2026-03-03_12:29:58",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "peste_5001_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "0744540365",
+      "email": "tenclubtenis@yahoo.com",
+      "full_name": "Ten Club Tenis Buzau"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-03-10_12:21:49",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40768972155"
+    }
+  },
+  {
+    "id": "32497763286534823",
+    "created_time": "2026-03-07_08:22:15",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40755357372",
+      "email": "marian.dulan@yahoo.com",
+      "full_name": "Marian Irinel Dulan"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-11_01:19:18",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40724150790"
+    }
+  },
+  {
+    "id": "1478815493218441",
+    "created_time": "2026-02-22_05:51:19",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40767776080",
+      "email": "alisebtour@gmail.com",
+      "full_name": "Mihai Dediu"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-27_00:13:10",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40778339808"
+    }
+  },
+  {
+    "id": "1822174558424659",
+    "created_time": "2026-03-06_00:11:46",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40762667743",
+      "email": "ionela.murgoci@yahoo.com",
+      "full_name": "Murgoci Ionela"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-08_02:19:48",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40753615230"
+    }
+  },
+  {
+    "id": "1380342440330319",
+    "created_time": "2026-03-03_01:07:51",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40747990573",
+      "email": "ionutifteme@gmail.com",
+      "full_name": "Ionut Ifteme"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-06_11:23:07",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40737084042"
+    }
+  },
+  {
+    "id": "4250399628532652",
+    "created_time": "2026-03-01_05:41:39",
+    "campaign_name": "",
+    "platform": "organic",
+    "lead_data": {
+      "care_este_bugetul_tau?": "<test lead: dummy data for care_este_bugetul_tau?>",
+      "doriți_montaj_inclus?": "<test lead: dummy data for doriți_montaj_inclus?>",
+      "phone_number": "<test lead: dummy data for phone_number>",
+      "email": "test@fb.com",
+      "full_name": "<test lead: dummy data for full_name>"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-01_13:22:06",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40725078000"
+    }
+  },
+  {
+    "id": "25658057333792316",
+    "created_time": "2026-02-10_23:05:02",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40765462936",
+      "email": "ciuraruestera990@gmail.com",
+      "full_name": "Estera Ciuraru"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-14_04:45:18",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40732920109"
+    }
+  },
+  {
+    "id": "1385856846479003",
+    "created_time": "2026-03-07_21:40:16",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40745216107",
+      "email": "chirila_lenuta@yahoo.com",
+      "full_name": "Chirila Laurentiu"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-03-10_10:10:12",
+    "returning_lead": "5x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40751878877"
+    }
+  },
+  {
+    "id": "731122136679557",
+    "created_time": "2026-02-14_19:47:11",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40747353135",
+      "email": "emibufnila@yahoo.com",
+      "full_name": "George Bufnila"
+    },
+    "lead_status": "NEW",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40736708947"
+    }
+  },
+  {
+    "id": "681663198157453",
+    "created_time": "2026-02-18_03:11:11",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40799757451",
+      "email": "turicaconstantin79@gmail.com",
+      "full_name": "Costin Turica"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40722127697"
+    }
+  },
+  {
+    "id": "1374069274084386",
+    "created_time": "2026-02-17_03:02:12",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40760677920",
+      "email": "chioveanu.claudiu@gmail.com",
+      "full_name": "Chioveanu Claudiu"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-02-19_01:11:12",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40752505470"
+    }
+  },
+  {
+    "id": "2010754396376895",
+    "created_time": "2026-02-16_07:45:23",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40745926234",
+      "email": "vali_sev2000@yahoo.com",
+      "full_name": "Vasi Serban"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-02-20_07:44:25",
+    "returning_lead": "2x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40754344043"
+    }
+  },
+  {
+    "id": "1421093439732094",
+    "created_time": "2026-02-28_23:59:47",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40733183767",
+      "email": "Contact@bassm.ro",
+      "full_name": "Sorin Mercea"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40754953936"
+    }
+  },
+  {
+    "id": "1913992622861147",
+    "created_time": "2026-03-03_06:17:46",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40740853432",
+      "email": "diaconu.claudia2000@yahoo.com",
+      "full_name": "CLAUDIA DIACONU"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-09_03:49:53",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40756597020"
+    }
+  },
+  {
+    "id": "828385080179948",
+    "created_time": "2026-02-14_08:20:52",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40740409941",
+      "email": "stizo98@yahoo.com",
+      "full_name": "Costel Titianu"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-19_08:12:04",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40765373625"
+    }
+  },
+  {
+    "id": "1322382779694476",
+    "created_time": "2026-03-11_04:24:44",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40768208562",
+      "email": "lenutafilote@gmail.com",
+      "full_name": "Lenuta Filote"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-03-12_20:53:40",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40778817395"
+    }
+  },
+  {
+    "id": "1203559538353340",
+    "created_time": "2026-02-16_14:04:25",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+447440386045",
+      "email": "petruiacob6@gmail.com",
+      "full_name": "Yacob Petru"
+    },
+    "lead_status": "NEW",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40775071394"
+    }
+  },
+  {
+    "id": "1734211440582430",
+    "created_time": "2026-02-14_08:08:33",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40743277907",
+      "email": "elena.mesteru@djep-iasi.ro",
+      "full_name": "Elena Mesteru"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-19_13:07:48",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40744721494"
+    }
+  },
+  {
+    "id": "2037450733680956",
+    "created_time": "2026-02-10_12:54:26",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40787223657",
+      "email": "plamadamirela75@gmail.com",
+      "full_name": "Mirela Plamada"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-13_18:20:47",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40755277729"
+    }
+  },
+  {
+    "id": "850952474078060",
+    "created_time": "2026-02-28_14:42:05",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40748352612",
+      "email": "floreaghiorghita379@gmail.com",
+      "full_name": "Florea Jimi"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-03-02_18:44:27",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40743696353"
+    }
+  },
+  {
+    "id": "25362842653368145",
+    "created_time": "2026-03-02_04:57:27",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40744394127",
+      "email": "dimitriuconstrantin@gmail.com",
+      "full_name": "Constantin Dimitriu"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-03-04_01:25:27",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40758533210"
+    }
+  },
+  {
+    "id": "1532448881235932",
+    "created_time": "2026-03-08_10:38:01",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40738086680",
+      "email": "Luigivasi20@gmail.com",
+      "full_name": "Luigi Văsi"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-03-08_20:17:26",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40729370409"
+    }
+  },
+  {
+    "id": "728985936457949",
+    "created_time": "2026-03-07_21:49:06",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40742171879",
+      "email": "danielafratiman@yahoo.com",
+      "full_name": "Dana Frati"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "2026-03-10_19:22:26",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40732798444"
+    }
+  },
+  {
+    "id": "1538198157510166",
+    "created_time": "2026-02-23_03:39:38",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "peste_5001_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40748104893",
+      "email": "rug_edi@yahoo.com",
+      "full_name": "Rughinis Eduard"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40777160173"
+    }
+  },
+  {
+    "id": "836383209271478",
+    "created_time": "2026-02-11_21:30:46",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40740477784",
+      "email": "luciancostelus@gmail.com",
+      "full_name": "Lucian Erbicianu"
+    },
+    "lead_status": "NEW",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40763814204"
+    }
+  },
+  {
+    "id": "1996001531255332",
+    "created_time": "2026-02-23_09:49:24",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "peste_5001_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40755275982",
+      "email": "andreiemmakarla@gmail.com",
+      "full_name": "Andrei Baltaru"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-03-02_04:37:59",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40771269621"
+    }
+  },
+  {
+    "id": "1755248975148190",
+    "created_time": "2026-02-12_13:49:43",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40771547934",
+      "email": "jupinulblind@gmail.com",
+      "full_name": "Dumitru Bors"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-02-19_08:35:38",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40737585338"
+    }
+  },
+  {
+    "id": "1127774505936443",
+    "created_time": "2026-03-03_15:14:24",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40766790070",
+      "email": "arteniemihai_80@yahoo.com",
+      "full_name": "Mihai Artenie"
+    },
+    "lead_status": "NEW",
+    "response_time": "",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40738832488"
+    }
+  },
+  {
+    "id": "1417138309848579",
+    "created_time": "2026-03-10_03:07:30",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "nu",
+      "phone_number": "+40754225955",
+      "email": "seby82218@gmail.com",
+      "full_name": "Sebastian Turcanu"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-14_04:40:41",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40733619308"
+    }
+  },
+  {
+    "id": "1186049806948996",
+    "created_time": "2026-02-22_01:54:27",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40757969816",
+      "email": "madalinaciocinta@yahoo.com",
+      "full_name": "Mădălina Ciocîntă"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-25_22:44:59",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40757830057"
+    }
+  },
+  {
+    "id": "926770633108079",
+    "created_time": "2026-02-18_18:27:07",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40769512024",
+      "email": "ciobanupaul06@gmail.com",
+      "full_name": "Paul Ciobanu"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "2026-02-22_04:18:18",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40726384537"
+    }
+  },
+  {
+    "id": "764771602733859",
+    "created_time": "2026-02-17_07:56:25",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "2001-5000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40766645499",
+      "email": "pavavalutastefan@yahoo.com",
+      "full_name": "Stefan Pavaluta"
+    },
+    "lead_status": "DISQUALIFIED",
+    "response_time": "",
+    "returning_lead": "3x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40729726983"
+    }
+  },
+  {
+    "id": "923745883406991",
+    "created_time": "2026-02-11_19:40:53",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40749958951",
+      "email": "daniel.grinio@gmail.com",
+      "full_name": "Daniel Catalin"
+    },
+    "lead_status": "CONTACTED",
+    "response_time": "2026-02-18_17:08:02",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Roxana Chirvase",
+      "role": "COO",
+      "email": "roxana@conversion-driven.com",
+      "phone": "+40773799013"
+    }
+  },
+  {
+    "id": "1588028772092634",
+    "created_time": "2026-02-25_10:09:05",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "facebook",
+    "lead_data": {
+      "care_este_bugetul_tau?": "peste_5001_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40745105804",
+      "email": "sebicupsan@yahoo.com",
+      "full_name": "Sebi Cupsan"
+    },
+    "lead_status": "QUALIFIED",
+    "response_time": "2026-03-02_04:48:22",
+    "returning_lead": "1x",
+    "assigned_to": {
+      "name": "Andrei Chirvase",
+      "role": "CEO",
+      "email": "andrei@conversion-driven.com",
+      "phone": "+40729727586"
+    }
+  },
+  {
+    "id": "1224145689666709",
+    "created_time": "2026-02-21_01:11:33",
+    "campaign_name": "CDA_Meta_Performance_lead-gen_VideosMetaForm_Ongoing",
+    "platform": "instagram",
+    "lead_data": {
+      "care_este_bugetul_tau?": "501-2000_euro",
+      "doriți_montaj_inclus?": "da",
+      "phone_number": "+40748288632",
+      "email": "firewar83@yahoo.com",
+      "full_name": "Cristian Cezar"
+    },
+    "lead_status": "CONVERTED",
+    "response_time": "2026-02-22_21:45:55",
+    "returning_lead": "3x",
+    "assigned_to": {
+      "name": "Andrei Balan",
+      "role": "CTO",
+      "email": "andrei.balan@conversion-driven.com",
+      "phone": "+40739551744"
+    }
+  }
+]
